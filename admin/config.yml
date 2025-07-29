@@ -3,7 +3,7 @@ backend:
   repo: ampani13/amiya-portfolio
   branch: main
   auth_scope: repo
-  oauth_client_id: YOUR_CLIENT_ID_HERE
+  oauth_client_id: Ov23liXLSWiO9f5Agf3x
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
