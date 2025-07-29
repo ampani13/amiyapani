@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ampani13/amiya-portfolio
+  repo: ampani13/amiyapani
   branch: main
   auth_scope: repo
   oauth_client_id: Ov23liXLSWiO9f5Agf3x
