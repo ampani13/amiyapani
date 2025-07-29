@@ -1,12 +1,11 @@
+# Amiya Portfolio with Decap CMS
 
-# Amiya Portfolio (GitHub Pages + Decap CMS)
+## Deploy Instructions
 
-## Setup Steps
-
-1. Push this folder to your GitHub repo (e.g., ampani13/amiya-portfolio)
-2. Enable GitHub Pages (Settings > Pages > main branch /root)
-3. Create a GitHub OAuth App with:
-   - Homepage: https://ampani13.github.io/amiya-portfolio
-   - Callback: https://ampani13.github.io/amiya-portfolio/admin/
-4. Replace 'oauth_client_id' in admin/config.yml with your Client ID
-5. Open https://ampani13.github.io/amiya-portfolio/admin to manage content
+1. Push to GitHub repository: ampani13/amiyapani
+2. Enable GitHub Pages (Settings > Pages > main / root)
+3. Create GitHub OAuth App:
+   - Homepage: https://ampani13.github.io/amiyapani
+   - Callback: https://ampani13.github.io/amiyapani/admin/
+4. Replace 'YOUR_CLIENT_ID_HERE' in admin/config.yml with actual Client ID.
+5. Access the CMS at: https://ampani13.github.io/amiyapani/admin
